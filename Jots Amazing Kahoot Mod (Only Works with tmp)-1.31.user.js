@@ -6,6 +6,7 @@
 // @author       CyxcCodes
 // @match        https://kahoot.it/*
 // @match        https://play.kahoot.it/v2*
+// @iconURL    https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=000000
 // @grant        GM_xmlhttpRequest
 // @run-at       document-idle
 // @license      MIT
